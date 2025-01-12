@@ -2,7 +2,7 @@
 <br>
 
 <p> I'm a begginer developer in this fragmental code's world.</p>
-<p>Currently doing a TechCamps in FactoriaF5.</p> 👩
+<p>Currently doing a TechCamp in FactoriaF5.</p> 👩
 
 
 <br>
