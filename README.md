@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi everyone! 
+<p> I'm a begginer developer in this fragmental code's world.
+Currently doing a TechCamps in FactoriaF5.</p>
 
-<!--
-**Lgtf5/Lgtf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p> I'm learning about:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul><em>
+<li> HTML</li>
+<li> CSS</li>
+<li> JavaScript</li>
+<li> React</li>
+<li> Java</li>
+<li> Bootstrap</li>
+<li> Tailwind</li>
+<li> VSCode</li>
+<li> Node</li>
+<li> Axios</li>
+<li> API</li>
+</em></ul>  
+
+
+
+
+
